@@ -19,4 +19,4 @@
   <a href="https://www.linkedin.com/in/jonatha-ferreira-558b7423a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  ![Snake animation](https://github.com/Jhow8335/Jhow8335/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Jhow8335/Jhow8335/blob/output/github-contribution-grid-snake.svg)
